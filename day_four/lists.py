@@ -93,6 +93,8 @@ print(lst5)
 lst6 = [1,2,3,4,5,6,7,7,6,8,9,10]
 c = lst6.count(6)
 sorted_list = sorted(lst6)
+length = len(lst6)
+print(length)
 print(sorted_list)
 sum = sum(lst6)
 print(sum)
